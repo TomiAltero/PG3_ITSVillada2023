@@ -6,8 +6,4 @@ def es_bisiesto(age):
         print("El año no es biciesto")
 
 
-
 es_bisiesto(2000)
-    
-
-    
