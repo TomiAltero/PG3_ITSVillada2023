@@ -11,8 +11,8 @@ def ejercicio_4():
 
                 if entrada == "si":
                     if entrada.isupper() or entrada.islower():
-                        continue
-                    continue
+                        break
+                    break
                 elif entrada == "no":
                     return
                 else:
